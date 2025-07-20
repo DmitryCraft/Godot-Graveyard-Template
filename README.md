@@ -9,4 +9,4 @@ Clean layout
 
 This project will only work with Godot 3.x, although, you could recode it to work in Godot 4.x.
 
-Hope you enjoy it!
+You can claim this in the Releases section below. the Hope you enjoy it!
