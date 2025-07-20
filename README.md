@@ -1,3 +1,4 @@
+<img width="1280" height="800" alt="Graveyard2" src="https://github.com/user-attachments/assets/c7dd5ed4-e302-4df6-a2ce-d5a1c8f19adc" />
 # Godot-Graveyard-Template
 A Godot game template
 
